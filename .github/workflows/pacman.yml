@@ -23,7 +23,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
 
       - name: Push SVGs to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: pacman-output
           build_dir: dist
