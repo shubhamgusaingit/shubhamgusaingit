@@ -34,9 +34,8 @@
 
 | Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
-| **[E-Commerce Exploratory Data Analysis](https://github.com/shubhamgusaingit)** | Python, Pandas, Matplotlib | Analyzed customer purchase trends and revenue growth patterns. |
-| **[Sales Performance Dashboard](https://github.com/shubhamgusaingit)** | Power BI, SQL | Built an interactive dashboard tracking regional KPIs and quarterly sales metrics. |
-| **[Customer Churn & Retention SQL Analysis](https://github.com/shubhamgusaingit)** | PostgreSQL | Executed complex queries using CTEs and window functions to identify churn indicators. |
+| **[Bank Customer Churn Analytics](https://github.com/shubhamgusaingit/bank-customer-churn-analytics)** | Python, Pandas, Data Analytics | Analyzed customer behavior and key risk factors influencing churn rates in banking services. |
+| **[UFO Sighting Power BI Dashboard](https://github.com/shubhamgusaingit/UFO-Sighting-Powerbi-Dashboard)** | Power BI, Data Visualization | Designed an interactive Power BI dashboard tracking global UFO sighting trends, locations, and patterns. |
 
 ---
 
