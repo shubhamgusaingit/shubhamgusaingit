@@ -34,14 +34,14 @@
 
 ### 🎮 Contribution Graph
 
+
 <p align="center">
-  <picture data-importer="pacman">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubhamgusaingit/shubhamgusaingit/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubhamgusaingit/shubhamgusaingit/pacman-output/galaga-contribution-graph.svg?game=galaga">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shubhamgusaingit/shubhamgusaingit/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubhamgusaingit/shubhamgusaingit/pacman-output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubhamgusaingit/shubhamgusaingit/pacman-output/github-contribution-grid-snake.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shubhamgusaingit/shubhamgusaingit/pacman-output/galaga-contribution-graph.svg">
   </picture>
 </p>
-
 ---
 
 ### 📌 Featured Projects
