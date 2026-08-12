@@ -32,18 +32,6 @@
 
 ---
 
-### 🎮 Contribution Graph
-
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubhamgusaingit/shubhamgusaingit/pacman-output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubhamgusaingit/shubhamgusaingit/pacman-output/github-contribution-grid-snake.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shubhamgusaingit/shubhamgusaingit/pacman-output/galaga-contribution-graph.svg">
-  </picture>
-</p>
----
-
 ### 📌 Featured Projects
 
 | Project | Tech Stack | Highlights |
@@ -62,4 +50,16 @@
   <a href="mailto:shubhamgusainofficial@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</p>
+
+---
+
+### 🎮 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubhamgusaingit/shubhamgusaingit/pacman-output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubhamgusaingit/shubhamgusaingit/pacman-output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shubhamgusaingit/shubhamgusaingit/pacman-output/pacman-contribution-graph.svg">
+  </picture>
 </p>
